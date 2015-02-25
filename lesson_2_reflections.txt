@@ -7,3 +7,5 @@ It allows you to bring in and modify the necessary files affected by the change 
 What are some situations when branches would be helpful in keeping your history organized? It may show where a bug was added by a branch rather than on the master
 How would branches help? You could narrow down the troubleshooting to only the branch and not have to analyze the master, which could be time consuming.
 How do the diagrams help you visualize the branch structure? It provides you a visual understanding of the parent-child relationships between the commits as well as the various paths that the development has taken.
+What is the result of merging two branches together? All the commits are on the same branch and are based on the timestamp of the commit.
+Why do we represent it in the diagram the way we do?  It shows how the commits came from two different branches before they were merged into one.
