@@ -9,3 +9,4 @@ How would branches help? You could narrow down the troubleshooting to only the b
 How do the diagrams help you visualize the branch structure? It provides you a visual understanding of the parent-child relationships between the commits as well as the various paths that the development has taken.
 What is the result of merging two branches together? All the commits are on the same branch and are based on the timestamp of the commit.
 Why do we represent it in the diagram the way we do?  It shows how the commits came from two different branches before they were merged into one.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?  Allows team members to collaborate on various modules of the program.  However, it will require you to do it manually if there is code that is changed by two different people.
